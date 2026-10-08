@@ -86,6 +86,7 @@ def main():
         ('completion', 'Shell completion scripts'),
         ('agent', 'Agent-friendly helpers'),
         ('raw', 'Raw access to documented Guesty Open API endpoints'),
+        ('set_custom_field', 'Merge-safe, verified listing custom-field writes'),
     ]
     
     registered_count = 0
